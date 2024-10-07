@@ -28,7 +28,7 @@ streamlit run dashboard.py
 ## Cara Menjalankan Aplikasi
 1. Clone repository ini ke komputer lokal Anda:
     ```bash
-    git clone 
+    git clone https://github.com/atzulf/bikesharing
     ```
 
 2. Instal library yang dibutuhkan:
